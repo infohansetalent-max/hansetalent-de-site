@@ -1,0 +1,216 @@
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  
+  src: local(''),
+    url('c1d1f0eba7acc7.woff2') format('woff2'),
+       url('c1d1f0eba7acc7.woff') format('woff'),
+       url('675507c2f3dd5a.ttf') format('truetype'),
+       url('bc8be875a29fd1.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100;
+  
+  src: local(''),
+    url('9fcfcd11ed309f.woff2') format('woff2'),
+       url('4cb1b74fc3440e.woff') format('woff'),
+       url('18ee2c7bf9c855.ttf') format('truetype'),
+       url('b08f9b192160f0.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  
+  src: local(''),
+    url('aa7e43c3da4351.woff2') format('woff2'),
+       url('1c32cd591dabd0.woff') format('woff'),
+       url('1562879e5bf235.ttf') format('truetype'),
+       url('cb62f7d7afbee9.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 200;
+  
+  src: local(''),
+    url('35b39b7f40c8f7.woff2') format('woff2'),
+       url('820dcecc7bfd4e.woff') format('woff'),
+       url('516f55cd742c83.ttf') format('truetype'),
+       url('aa0e1872013208.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  
+  src: local(''),
+    url('041a6581f60bd1.woff2') format('woff2'),
+       url('f3f4629db8058d.woff') format('woff'),
+       url('7dd0965eee76c5.ttf') format('truetype'),
+       url('df229d0dafb17b.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 300;
+  
+  src: local(''),
+    url('d952803303102b.woff2') format('woff2'),
+       url('d952803303102b.woff') format('woff'),
+       url('e4aadc4f56efd9.ttf') format('truetype'),
+       url('a3408386747dcf.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  
+  src: local(''),
+    url('84a331900f261d.woff2') format('woff2'),
+       url('84a331900f261d.woff') format('woff'),
+       url('068c458a7cc0d3.ttf') format('truetype'),
+       url('4de86e7780f837.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  
+  src: local(''),
+    url('fc3f5fb86cba21.woff2') format('woff2'),
+       url('fc3f5fb86cba21.woff') format('woff'),
+       url('4edc2311e17eb2.ttf') format('truetype'),
+       url('04c081736dff05.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  
+  src: local(''),
+    url('8e462063229d69.woff2') format('woff2'),
+       url('8e462063229d69.woff') format('woff'),
+       url('6907b8055af961.ttf') format('truetype'),
+       url('160571b1a21d19.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  
+  src: local(''),
+    url('8a1e7187c0f96e.woff2') format('woff2'),
+       url('8a1e7187c0f96e.woff') format('woff'),
+       url('0ee7c52daa0550.ttf') format('truetype'),
+       url('70ec9bfba454ab.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  
+  src: local(''),
+    url('0538616fe085cd.woff2') format('woff2'),
+       url('fc36950d55ee6c.woff') format('woff'),
+       url('66d87f199f5b38.ttf') format('truetype'),
+       url('d50c2b54602705.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 600;
+  
+  src: local(''),
+    url('ec1e8789f635de.woff2') format('woff2'),
+       url('441fa2050fd04c.woff') format('woff'),
+       url('9b948ba3244fb4.ttf') format('truetype'),
+       url('109442c14a8020.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  
+  src: local(''),
+    url('8305e64c2f6555.woff2') format('woff2'),
+       url('01afee482d87ed.woff') format('woff'),
+       url('affe7569359104.ttf') format('truetype'),
+       url('5376d97fbfa038.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  
+  src: local(''),
+    url('97daf602a78c9d.woff2') format('woff2'),
+       url('643613f19e1a6b.woff') format('woff'),
+       url('97bab6f5eb7cda.ttf') format('truetype'),
+       url('9fa971515e6e33.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 800;
+  
+  src: local(''),
+    url('4f046440beb553.woff2') format('woff2'),
+       url('552409d7bdfbf1.woff') format('woff'),
+       url('0e6ce28c8f7641.ttf') format('truetype'),
+       url('d3bd00e74764b2.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 800;
+  
+  src: local(''),
+    url('642282fb9e5e83.woff2') format('woff2'),
+       url('fb14a04d18f756.woff') format('woff'),
+       url('9ef30efc261ca0.ttf') format('truetype'),
+       url('3790acbe32f2f4.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  
+  src: local(''),
+    url('cb29cf98b291a6.woff2') format('woff2'),
+       url('63fb81f26805c9.woff') format('woff'),
+       url('3f61d7ac3238f9.ttf') format('truetype'),
+       url('f0cb23613ed2ee.svg#Montserrat') format('svg')
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 900;
+  
+  src: local(''),
+    url('887bae90582979.woff2') format('woff2'),
+       url('887bae90582979.woff') format('woff'),
+       url('52a47145a7f878.ttf') format('truetype'),
+       url('6275060726cac1.svg#Montserrat') format('svg')
+}
