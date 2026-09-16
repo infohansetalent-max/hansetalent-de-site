@@ -1,14 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /vorbereitungsformular
-Disallow: /legal
-Disallow: /datenschutz
-Disallow: /impressum
-Disallow: /karriere-vertrieb-jetzt-bewerben
-Disallow: /karriere-vertrieb-bewerbungsformular
-Disallow: /karriere
-Disallow: /karriere-marketing-jetzt-bewerben
-Disallow: /karriere-marketing-bewerbungsformular
-Disallow: /vorkampagnenformular
 
 Sitemap: https://hansetalent.de/sitemap.xml
