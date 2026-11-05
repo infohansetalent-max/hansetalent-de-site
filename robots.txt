@@ -1,4 +1,3 @@
+# Abruf zulassen, damit Suchmaschinen die noindex-Angaben lesen.
 User-agent: *
 Allow: /
-
-Sitemap: https://hansetalent.de/sitemap.xml
